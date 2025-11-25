@@ -1,79 +1,65 @@
-# Hi there, Priya! 👋
+# 👋 Hi, I'm Priya Lokare!
 
-Welcome to my GitHub profile! I'm Priya Lokare, an aspiring web developer focusing on HTML and front-end projects. This space showcases my early experiments, job challenge submissions, and learning journey in web development.
+🌟 **Aspiring Software Developer | Frontend Enthusiast | MCA Aspirant**  
+💻 Strong in **Frontend Development**, **Java Programming**, and **OOPs**
+
+---
 
 ## 🚀 About Me
-- **Name**: Priya Lokare
-- **Role**: Aspiring Web Developer
-- **Location**: [Add your location, e.g., India]
-- **Interests**: Web design, HTML/CSS, building simple websites
-- **Fun Fact**: [Add something fun, e.g., I love experimenting with creative layouts!]
 
-I'm just starting out and excited to grow my skills. Let's connect!
+I am passionate about building clean, responsive, and user-friendly web applications.  
+Currently improving my skills in **React**, **Java**, and **Full-Stack Development**.
 
-## 📚 Background
-- **Focus**: Learning front-end development through practical projects
-- **Relevant Skills**: HTML basics, web structuring
+---
 
-[Add more about your education, certifications, or goals here as you progress.]
+## 🛠️ Skills & Technologies
 
-## 💼 Skills
-### Programming Languages
-- HTML
-- [Add CSS, JavaScript, etc., as you learn them]
+### 🌐 Frontend
+- **HTML5**
+- **CSS3**
+- **JavaScript (ES6)**
+- **React.js**
+- **Redux**
+- **Responsive Web Design**
 
-### Tools
-- Git & GitHub
-- [e.g., VS Code – add yours]
+### ☕ Backend / Core Programming
+- **Java**
+- **OOPs Concepts**
+- **Basic Data Structures**
 
-## 📂 Featured Projects
-Here are some of my early projects, mostly HTML-based websites created as job challenges:
+### 🧰 Tools & IDEs
+- **VS Code**
+- **Eclipse**
+- **Git & GitHub**
 
-1. **[myfirstDocument]**  
-   A simple HTML document for a job challenge.  
-   - Tech Stack: HTML  
-   - [Link to repo](https://github.com/priyalokare-15/myfirstDocument)  
+---
 
-2. **[mysecondhtmldocument]**  
-   Another basic HTML page exploring document structure.  
-   - Tech Stack: HTML  
-   - [Link to repo](https://github.com/priyalokare-15/mysecondhtmldocument)  
+## 📁 My Projects
 
-3. **[myfirstwebsite]**  
-   My initial attempt at building a full website.  
-   - Tech Stack: HTML  
-   - [Link to repo](https://github.com/priyalokare-15/myfirstwebsite)  
+### 🔹 **Portfolio Website**
+A responsive personal portfolio built using **HTML, CSS, JavaScript**.  
+Showcases skills, projects, and contact info.
 
-4. **[sariiwebsite]**  
-   A creative website project (perhaps inspired by fashion?).  
-   - Tech Stack: HTML  
-   - [Link to repo](https://github.com/priyalokare-15/sariiwebsite)  
+ 
+📌 *Repo:* [myPortfolio](https://github.com/priyalokare-15/myPortfolio)
 
-5. **[portpolio]**  
-   Early portfolio site to showcase my work.  
-   - Tech Stack: HTML  
-   - [Link to repo](https://github.com/priyalokare-15/portpolio)  
+---
 
-6. **[portpolioa]**  
-   An updated version of my portfolio.  
-   - Tech Stack: HTML  
-   - [Link to repo](https://github.com/priyalokare-15/portpolioa)  
+## 🌱 Currently Learning
+- Advanced **React.js**
+- **Redux Toolkit**
+- **Java Backend Basics**
 
-## 📈 GitHub Stats
-![Priya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyalokare-15&show_icons=true&theme=radical&hide_border=true)
+---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyalokare-15&layout=compact&theme=radical&hide_border=true)
+## 📫 Connect With Me
+- **LinkedIn:** *www.linkedin.com/in/priya-lokare-473619247*  
+- **GitHub:** https://github.com/priyalokare-15  
+- **Email:** *priyalokare41@gmail.com*
 
-*(These will populate as you add more activity – currently showing your HTML focus!)*
+---
 
-## 🌟 Achievements
-- Completed 6 job challenge projects
-- [Add more, e.g., First GitHub commit milestone!]
-
-## 📫 Let's Connect!
-- 📧 Email: [priyalokare41@gmail.com]
-- 💼 LinkedIn: [Add your LinkedIn]
-- 🐦 Twitter/X: [@yourhandle]
-- 🌐 Portfolio: [Link to one of your portpolio repos, e.g., https://github.com/priyalokare-15/portpolio]
+⭐ *Thank you for visiting my profile!*  
+🌈 *Feel free to check out my repositories and connect with me.*
 
 
